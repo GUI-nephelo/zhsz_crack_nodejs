@@ -1,0 +1,29 @@
+{
+  "name": "zhsz_crack",
+  "version": "1.0.0",
+  "description": "crack passwords with zhsz.bjedu.cn ",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GUI-nephelo/zhsz_crack_nodejs.git"
+  },
+  "keywords": [
+    "crack"
+  ],
+  "author": "GUI-nephelo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GUI-nephelo/zhsz_crack_nodejs/issues"
+  },
+  "homepage": "https://github.com/GUI-nephelo/zhsz_crack_nodejs#readme",
+  "dependencies": {
+    "btoa-atob": "^0.1.2",
+    "moment": "^2.29.1",
+    "request": "^2.88.2",
+    "sqlite3": "^5.0.0",
+    "urlencode": "^1.1.0"
+  }
+}
